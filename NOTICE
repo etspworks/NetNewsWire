@@ -1,0 +1,49 @@
+NetNewsWire for HarmonyOS
+=========================
+
+This project is an unofficial HarmonyOS (ArkTS / ArkUI) port of NetNewsWire,
+the free and open-source feed reader for macOS and iOS by Brent Simmons and the
+Ranchero Software team.
+
+Upstream project: https://github.com/Ranchero-Software/NetNewsWire
+Upstream website: https://netnewswire.com/
+
+The upstream software is distributed under the MIT License, reproduced in the
+LICENSE file at the root of this repository:
+
+    Copyright (c) 2002-2025 Brent Simmons
+
+This port reuses upstream source logic, strings, resources and artwork. All of it
+remains under that MIT License. Modifications made for the HarmonyOS platform are
+released under the same terms.
+
+This port is NOT affiliated with, endorsed by, or supported by Ranchero Software
+or Brent Simmons. Please do not report problems with this port to the upstream
+project. The names "NetNewsWire" and "Ranchero Software" and the NetNewsWire app
+icon belong to their respective owners; the MIT License covers the source code,
+not those names or that artwork.
+
+
+Bundled third-party assets
+--------------------------
+
+Article themes under entry/src/main/resources/rawfile/themes/ are carried over
+from upstream NetNewsWire and embed the following fonts:
+
+* Atkinson Hyperlegible (Hyperlegible.nnwtheme)
+  Copyright (c) 2020 Braille Institute of America, Inc.
+  Licensed under the SIL Open Font License, Version 1.1.
+  https://www.brailleinstitute.org/freefont
+  https://openfontlicense.org/
+
+* ModeSeven (NewsFax.nnwtheme)
+  Freeware, with additional edits by schriftgestalt.
+  See entry/src/main/resources/rawfile/themes/NewsFax.nnwtheme/License.md
+  https://www.fontspace.com/modeseven-font-f2369
+
+Article rendering scripts under entry/src/main/resources/rawfile/article/ are
+carried over from upstream NetNewsWire. newsfoot.js is by Andrew Brehaut.
+
+In-app credits for upstream contributors ship in
+entry/src/main/resources/rawfile/about/credits.txt and are shown on the About
+screen.

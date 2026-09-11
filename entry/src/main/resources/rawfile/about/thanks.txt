@@ -1,0 +1,2 @@
+Thanks to Sheila and my family; thanks to my friends in Seattle and around the globe; thanks to the ever-patient and ever-awesome NetNewsWire beta testers. 
+Thanks to Gus Mueller for FMDB by Flying Meat Software. Thanks to GitHub and Discourse for making open source collaboration easy and fun. Thanks to Ben Ubois at Feedbin for all the extra help with syncing and article rendering — and for hosting the server for the Reader view.

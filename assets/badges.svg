@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 792 40" width="792" height="40" role="img" aria-label="HarmonyOS, ArkTS and ArkUI on API 24, zero runtime dependencies, unofficial port">
+  <style>
+    .b{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+       font-size:12px;font-weight:700;letter-spacing:1.2px;text-anchor:middle}
+  </style>
+  <g>
+    <rect x="0"   y="0" width="152" height="40" rx="8" fill="#0f1620" stroke="#24405f"/>
+    <text class="b" x="76"  y="25" fill="#2D80F1">HARMONYOS</text>
+
+    <rect x="164" y="0" width="230" height="40" rx="8" fill="#0f1620" stroke="#1f2a3a"/>
+    <text class="b" x="279" y="25" fill="#5E9EF4">ARKTS &#183; ARKUI &#183; API 24</text>
+
+    <rect x="406" y="0" width="222" height="40" rx="8" fill="#0f1620" stroke="#1f2a3a"/>
+    <text class="b" x="517" y="25" fill="#3fb950">0 RUNTIME DEPENDENCIES</text>
+
+    <rect x="640" y="0" width="152" height="40" rx="8" fill="#0f1620" stroke="#1f2a3a"/>
+    <text class="b" x="716" y="25" fill="#8b98a8">UNOFFICIAL PORT</text>
+  </g>
+</svg>

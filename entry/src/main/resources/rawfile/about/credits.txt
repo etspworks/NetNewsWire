@@ -1,0 +1,7 @@
+Contributing developers: Stuart Breckenridge, Maurice Parker
+App icon: Brad Ellis
+Feedly syncing: Kiel Gillard
+NewsBlur syncing: Anh Do
+Under-the-hood magic and CSS stylin’s: Nate Weaver
+Newsfoot (JS footnote displayer): Andrew Brehaut
+And featuring contributions from Daniel Jalkut, Joe Heck, Olof Hellman, Rizwan Mohamed Ibrahim, Phil Viso, and many more!

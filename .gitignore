@@ -1,0 +1,19 @@
+# Signing material — never commit.
+signing/
+*.p12
+*.cer
+*.p7b
+*.csr
+*.keystore
+
+# Machine-local
+local.properties
+.idea/
+.DS_Store
+
+# Build output and dependencies
+.hvigor/
+oh_modules/
+build/
+*.hap
+*.hsp

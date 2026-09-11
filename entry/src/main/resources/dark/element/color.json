@@ -1,0 +1,88 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#000000"
+    },
+    {
+      "name": "bar_background_color",
+      "value": "#000000"
+    },
+    {
+      "name": "control_background_color",
+      "value": "#40FFFFFF"
+    },
+    {
+      "name": "delete_background_color",
+      "value": "#FF4245"
+    },
+    {
+      "name": "full_screen_background_color",
+      "value": "#000000"
+    },
+    {
+      "name": "icon_background_color",
+      "value": "#383838"
+    },
+    {
+      "name": "label_color",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "primary_accent_color",
+      "value": "#2D80F1"
+    },
+    {
+      "name": "secondary_accent_color",
+      "value": "#5E9EF4"
+    },
+    {
+      "name": "section_header_color",
+      "value": "#141417"
+    },
+    {
+      "name": "star_color",
+      "value": "#F9C634"
+    },
+    {
+      "name": "vibrant_text_color",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "bazqux_color",
+      "value": "#2B8FC2"
+    },
+    {
+      "name": "cloudkit_color",
+      "value": "#636366"
+    },
+    {
+      "name": "feedbin_color",
+      "value": "#0745C0"
+    },
+    {
+      "name": "feedly_color",
+      "value": "#179D38"
+    },
+    {
+      "name": "fresh_rss_color",
+      "value": "#014EA9"
+    },
+    {
+      "name": "inoreader_color",
+      "value": "#0167B3"
+    },
+    {
+      "name": "local_color",
+      "value": "#0A84FF"
+    },
+    {
+      "name": "newsblur_color",
+      "value": "#FF9F0A"
+    },
+    {
+      "name": "theoldreader_color",
+      "value": "#E11100"
+    }
+  ]
+}

@@ -1,0 +1,1760 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "NetNewsWire — RSS and Atom feed reader"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "NetNewsWire — RSS reader"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "NetNewsWire"
+    },
+    {
+      "name": "of",
+      "value": "%1$s of %2$s"
+    },
+    {
+      "name": "d_of_d",
+      "value": "%1$d of %2$d"
+    },
+    {
+      "name": "d_unread",
+      "value": "%d unread"
+    },
+    {
+      "name": "i_unread",
+      "value": "%d Unread"
+    },
+    {
+      "name": "lld_months",
+      "value": "%d months"
+    },
+    {
+      "name": "no_text",
+      "value": "(No Text)"
+    },
+    {
+      "name": "last_downloaded",
+      "value": "(last downloaded %s)"
+    },
+    {
+      "name": "a_web_browser_will_open_the_feedly_login_for",
+      "value": "A web browser will open the Feedly login for you to authorize access."
+    },
+    {
+      "name": "api_url_https_fresh_rss_net_api_greader_php",
+      "value": "API URL: https://fresh.rss.net/api/greader.php"
+    },
+    {
+      "name": "about_netnewswire",
+      "value": "About NetNewsWire"
+    },
+    {
+      "name": "account",
+      "value": "Account"
+    },
+    {
+      "name": "account_error",
+      "value": "Account Error"
+    },
+    {
+      "name": "account_stats",
+      "value": "Account Stats"
+    },
+    {
+      "name": "account_stats_help",
+      "value": "Account Stats Help"
+    },
+    {
+      "name": "accounts",
+      "value": "Accounts"
+    },
+    {
+      "name": "active",
+      "value": "Active"
+    },
+    {
+      "name": "activity_log",
+      "value": "Activity Log"
+    },
+    {
+      "name": "activity_log_help",
+      "value": "Activity Log Help"
+    },
+    {
+      "name": "activity_may_contain_feed_urls_and_other_inf",
+      "value": "Activity may contain feed URLs and other information you may not want to share publicly."
+    },
+    {
+      "name": "add_url_to_accountname",
+      "value": "Add ${url} to ${accountName}"
+    },
+    {
+      "name": "add_account",
+      "value": "Add Account"
+    },
+    {
+      "name": "add_feed",
+      "value": "Add Feed"
+    },
+    {
+      "name": "add_folder",
+      "value": "Add Folder"
+    },
+    {
+      "name": "add_item",
+      "value": "Add Item"
+    },
+    {
+      "name": "add_an_account_by_clicking_the_button",
+      "value": "Add an account by clicking the + button."
+    },
+    {
+      "name": "adding_to_netnewswire",
+      "value": "Adding %s to NetNewsWire."
+    },
+    {
+      "name": "adds_a_feed_to_netnewswire",
+      "value": "Adds a feed to NetNewsWire."
+    },
+    {
+      "name": "advanced",
+      "value": "Advanced"
+    },
+    {
+      "name": "all_articles",
+      "value": "All Articles"
+    },
+    {
+      "name": "all_unread",
+      "value": "All Unread"
+    },
+    {
+      "name": "already_subscribed",
+      "value": "Already subscribed"
+    },
+    {
+      "name": "always_use_reader_view",
+      "value": "Always Use Reader View"
+    },
+    {
+      "name": "are_you_sure_you_want_to_delete_d_feeds",
+      "value": "Are you sure you want to delete %d feeds?"
+    },
+    {
+      "name": "are_you_sure_you_want_to_delete_the_d_select",
+      "value": "Are you sure you want to delete the %d selected items?"
+    },
+    {
+      "name": "are_you_sure_you_want_to_delete_the_feed",
+      "value": "Are you sure you want to delete the feed “%s”?"
+    },
+    {
+      "name": "are_you_sure_you_want_to_delete_the_feed_2",
+      "value": "Are you sure you want to delete the feed ”%s”?"
+    },
+    {
+      "name": "are_you_sure_you_want_to_delete_the_theme",
+      "value": "Are you sure you want to delete the theme “%s”?."
+    },
+    {
+      "name": "are_you_sure_you_want_to_delete_the_feed_3",
+      "value": "Are you sure you want to delete the “%s” feed?"
+    },
+    {
+      "name": "are_you_sure_you_want_to_delete_the_folder",
+      "value": "Are you sure you want to delete the “%s” folder?"
+    },
+    {
+      "name": "are_you_sure_you_want_to_remove_this_account",
+      "value": "Are you sure you want to remove this account? NetNewsWire will no longer be able to access articles and feeds unless the account is added again."
+    },
+    {
+      "name": "are_you_sure_you_want_to_remove_this_account_2",
+      "value": "Are you sure you want to remove this account? This cannot be undone."
+    },
+    {
+      "name": "article",
+      "value": "Article"
+    },
+    {
+      "name": "article_content_records",
+      "value": "Article Content Records"
+    },
+    {
+      "name": "article_search",
+      "value": "Article Search"
+    },
+    {
+      "name": "article_theme",
+      "value": "Article Theme"
+    },
+    {
+      "name": "articles",
+      "value": "Articles"
+    },
+    {
+      "name": "author_s_website",
+      "value": "Author‘s website:"
+    },
+    {
+      "name": "author_s_website_2",
+      "value": "Author’s website:\n%s"
+    },
+    {
+      "name": "automatic",
+      "value": "Automatic"
+    },
+    {
+      "name": "cancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "canceled",
+      "value": "Canceled."
+    },
+    {
+      "name": "can_t_add_icloud_account",
+      "value": "Can’t Add iCloud Account"
+    },
+    {
+      "name": "can_t_add_a_feed_because_no_feed_was_found",
+      "value": "Can’t add a feed because no feed was found."
+    },
+    {
+      "name": "can_t_add_this_feed_because_of_a_download_er",
+      "value": "Can’t add this feed because of a download error: “%s”"
+    },
+    {
+      "name": "can_t_add_this_feed_because_you_ve_already_s",
+      "value": "Can’t add this feed because you’ve already subscribed to it."
+    },
+    {
+      "name": "choose_a_subscriptions_plist_file",
+      "value": "Choose a Subscriptions.plist file:"
+    },
+    {
+      "name": "choose_a_location_for_the_exported_opml_file",
+      "value": "Choose a location for the exported OPML file."
+    },
+    {
+      "name": "choose_an_account_to_receive_the_imported_fe",
+      "value": "Choose an account to receive the imported feeds and folders"
+    },
+    {
+      "name": "choose_an_account_type_to_add",
+      "value": "Choose an account type to add…"
+    },
+    {
+      "name": "choose_an_account_with_the_subscriptions_to",
+      "value": "Choose an account with the subscriptions to export"
+    },
+    {
+      "name": "clean_up",
+      "value": "Clean Up"
+    },
+    {
+      "name": "clean_up_icloud_records",
+      "value": "Clean Up iCloud Records"
+    },
+    {
+      "name": "clean_up_2",
+      "value": "Clean Up…"
+    },
+    {
+      "name": "cleanup_canceled",
+      "value": "Cleanup canceled."
+    },
+    {
+      "name": "cleanup_failed_to_complete_but_you_may_be_ab",
+      "value": "Cleanup failed to complete, but you may be able to clean up more if you wait a few minutes and try again."
+    },
+    {
+      "name": "cleanup_failed_to_complete_but_you_may_be_ab_2",
+      "value": "Cleanup failed to complete, but you may be able to clean up more if you wait a few minutes and try again.\n\nClick Refresh to see your updated stats."
+    },
+    {
+      "name": "cleanup_progress",
+      "value": "Cleanup progress"
+    },
+    {
+      "name": "close",
+      "value": "Close"
+    },
+    {
+      "name": "close_image",
+      "value": "Close Image"
+    },
+    {
+      "name": "collapse",
+      "value": "Collapse"
+    },
+    {
+      "name": "collapsed",
+      "value": "Collapsed"
+    },
+    {
+      "name": "color_palette",
+      "value": "Color Palette"
+    },
+    {
+      "name": "completed",
+      "value": "Completed"
+    },
+    {
+      "name": "continue",
+      "value": "Continue"
+    },
+    {
+      "name": "copy_article_url",
+      "value": "Copy Article URL"
+    },
+    {
+      "name": "copy_contents",
+      "value": "Copy Contents"
+    },
+    {
+      "name": "copy_external_url",
+      "value": "Copy External URL"
+    },
+    {
+      "name": "copy_feed_url",
+      "value": "Copy Feed URL"
+    },
+    {
+      "name": "copy_home_page_url",
+      "value": "Copy Home Page URL"
+    },
+    {
+      "name": "couldn_t_complete_the_icloud_scan_because_of",
+      "value": "Couldn’t complete the iCloud scan because of an error:"
+    },
+    {
+      "name": "couldn_t_find_a_place_to_add_the_feed",
+      "value": "Couldn’t find a place to add the feed."
+    },
+    {
+      "name": "create",
+      "value": "Create"
+    },
+    {
+      "name": "create_a_local_account_on_your_mac",
+      "value": "Create a local account on your Mac."
+    },
+    {
+      "name": "credentials",
+      "value": "Credentials"
+    },
+    {
+      "name": "current_activity",
+      "value": "Current Activity"
+    },
+    {
+      "name": "current_activity_help",
+      "value": "Current Activity Help"
+    },
+    {
+      "name": "dark",
+      "value": "Dark"
+    },
+    {
+      "name": "databases",
+      "value": "Databases"
+    },
+    {
+      "name": "deactivate",
+      "value": "Deactivate"
+    },
+    {
+      "name": "default",
+      "value": "Default"
+    },
+    {
+      "name": "delete",
+      "value": "Delete"
+    },
+    {
+      "name": "delete_feed",
+      "value": "Delete Feed"
+    },
+    {
+      "name": "delete_feeds",
+      "value": "Delete Feeds"
+    },
+    {
+      "name": "delete_feeds_and_folders",
+      "value": "Delete Feeds and Folders"
+    },
+    {
+      "name": "delete_folder",
+      "value": "Delete Folder"
+    },
+    {
+      "name": "delete_folders",
+      "value": "Delete Folders"
+    },
+    {
+      "name": "delete_items",
+      "value": "Delete Items"
+    },
+    {
+      "name": "delete_theme",
+      "value": "Delete Theme?"
+    },
+    {
+      "name": "deleting_read_content_records",
+      "value": "Deleting read content records…"
+    },
+    {
+      "name": "deleting_unread_content_records",
+      "value": "Deleting unread content records…"
+    },
+    {
+      "name": "dinosaurs_help",
+      "value": "Dinosaurs Help"
+    },
+    {
+      "name": "dismiss",
+      "value": "Dismiss"
+    },
+    {
+      "name": "done",
+      "value": "Done"
+    },
+    {
+      "name": "don_t_have_a_bazqux_account",
+      "value": "Don’t have a BazQux account?"
+    },
+    {
+      "name": "don_t_have_a_freshrss_instance",
+      "value": "Don’t have a FreshRSS instance?"
+    },
+    {
+      "name": "don_t_have_a_the_old_reader_account",
+      "value": "Don’t have a The Old Reader account?"
+    },
+    {
+      "name": "don_t_have_an_inoreader_account",
+      "value": "Don’t have an Inoreader account?"
+    },
+    {
+      "name": "download_error",
+      "value": "Download Error"
+    },
+    {
+      "name": "downloading_avatar",
+      "value": "Downloading avatar"
+    },
+    {
+      "name": "downloading_favicon",
+      "value": "Downloading favicon"
+    },
+    {
+      "name": "downloading_image",
+      "value": "Downloading image"
+    },
+    {
+      "name": "downloading_metadata",
+      "value": "Downloading metadata"
+    },
+    {
+      "name": "duplicate_theme",
+      "value": "Duplicate Theme"
+    },
+    {
+      "name": "enable_notifications",
+      "value": "Enable Notifications"
+    },
+    {
+      "name": "enable_notifications_in_settings",
+      "value": "Enable Notifications in Settings"
+    },
+    {
+      "name": "error",
+      "value": "Error"
+    },
+    {
+      "name": "error_reader_view",
+      "value": "Error - Reader View"
+    },
+    {
+      "name": "error_log",
+      "value": "Error Log"
+    },
+    {
+      "name": "error_log_help",
+      "value": "Error Log Help"
+    },
+    {
+      "name": "errors_may_contain_feed_urls_and_other_infor",
+      "value": "Errors may contain feed URLs and other information you may not want to share publicly."
+    },
+    {
+      "name": "every_2_hours",
+      "value": "Every 2 Hours"
+    },
+    {
+      "name": "every_30_minutes",
+      "value": "Every 30 Minutes"
+    },
+    {
+      "name": "every_4_hours",
+      "value": "Every 4 Hours"
+    },
+    {
+      "name": "every_8_hours",
+      "value": "Every 8 Hours"
+    },
+    {
+      "name": "every_hour",
+      "value": "Every Hour"
+    },
+    {
+      "name": "expand",
+      "value": "Expand"
+    },
+    {
+      "name": "expanded",
+      "value": "Expanded"
+    },
+    {
+      "name": "export_opml",
+      "value": "Export OPML"
+    },
+    {
+      "name": "export_to",
+      "value": "Export to:"
+    },
+    {
+      "name": "extra_extra_large",
+      "value": "Extra Extra Large"
+    },
+    {
+      "name": "extra_large",
+      "value": "Extra Large"
+    },
+    {
+      "name": "failed",
+      "value": "Failed"
+    },
+    {
+      "name": "favicons",
+      "value": "Favicons"
+    },
+    {
+      "name": "feed_inspector",
+      "value": "Feed Inspector"
+    },
+    {
+      "name": "feed_url",
+      "value": "Feed URL"
+    },
+    {
+      "name": "feeds",
+      "value": "Feeds"
+    },
+    {
+      "name": "fetching",
+      "value": "Fetching"
+    },
+    {
+      "name": "filter_read_articles",
+      "value": "Filter Read Articles"
+    },
+    {
+      "name": "filter_read_feeds",
+      "value": "Filter Read Feeds"
+    },
+    {
+      "name": "find_out_more",
+      "value": "Find Out More"
+    },
+    {
+      "name": "find_in_article",
+      "value": "Find in Article"
+    },
+    {
+      "name": "find_out_more_2",
+      "value": "Find out more"
+    },
+    {
+      "name": "finding_feed",
+      "value": "Finding feed"
+    },
+    {
+      "name": "finding_feed_2",
+      "value": "Finding feed…"
+    },
+    {
+      "name": "first_unread",
+      "value": "First Unread"
+    },
+    {
+      "name": "folder",
+      "value": "Folder"
+    },
+    {
+      "name": "folder_inspector",
+      "value": "Folder Inspector"
+    },
+    {
+      "name": "folders",
+      "value": "Folders"
+    },
+    {
+      "name": "general",
+      "value": "General"
+    },
+    {
+      "name": "get_feed_info",
+      "value": "Get Feed Info"
+    },
+    {
+      "name": "get_info",
+      "value": "Get Info"
+    },
+    {
+      "name": "go_to_all_unread",
+      "value": "Go To All Unread"
+    },
+    {
+      "name": "go_to_settings",
+      "value": "Go To Settings"
+    },
+    {
+      "name": "go_to_starred",
+      "value": "Go To Starred"
+    },
+    {
+      "name": "go_to_today",
+      "value": "Go To Today"
+    },
+    {
+      "name": "go_to_feed",
+      "value": "Go to Feed"
+    },
+    {
+      "name": "help",
+      "value": "Help"
+    },
+    {
+      "name": "help_opens_in_browser",
+      "value": "Help — opens in browser"
+    },
+    {
+      "name": "here",
+      "value": "Here"
+    },
+    {
+      "name": "hide_read_articles",
+      "value": "Hide Read Articles"
+    },
+    {
+      "name": "hide_read_feeds",
+      "value": "Hide Read Feeds"
+    },
+    {
+      "name": "home_page",
+      "value": "Home Page"
+    },
+    {
+      "name": "how_to_optimize_icloud_syncing",
+      "value": "How to Optimize iCloud Syncing"
+    },
+    {
+      "name": "icon_preview",
+      "value": "Icon Preview"
+    },
+    {
+      "name": "icon_size",
+      "value": "Icon Size"
+    },
+    {
+      "name": "import_failed",
+      "value": "Import Failed"
+    },
+    {
+      "name": "import_theme",
+      "value": "Import Theme"
+    },
+    {
+      "name": "inspector",
+      "value": "Inspector"
+    },
+    {
+      "name": "install_theme",
+      "value": "Install Theme"
+    },
+    {
+      "name": "install_theme_by",
+      "value": "Install theme “%1$s” by %2$s?"
+    },
+    {
+      "name": "invalid_api_url",
+      "value": "Invalid API URL."
+    },
+    {
+      "name": "invalid_email_password_combination",
+      "value": "Invalid email/password combination."
+    },
+    {
+      "name": "invalid_username_password_combination",
+      "value": "Invalid username/password combination."
+    },
+    {
+      "name": "keyboard_shortcuts",
+      "value": "Keyboard Shortcuts"
+    },
+    {
+      "name": "keychain_error_while_storing_credentials",
+      "value": "Keychain error while storing credentials."
+    },
+    {
+      "name": "large",
+      "value": "Large"
+    },
+    {
+      "name": "last_article",
+      "value": "Last Article"
+    },
+    {
+      "name": "last_response",
+      "value": "Last Response"
+    },
+    {
+      "name": "light",
+      "value": "Light"
+    },
+    {
+      "name": "link",
+      "value": "Link:"
+    },
+    {
+      "name": "local",
+      "value": "Local"
+    },
+    {
+      "name": "local_accounts_do_not_sync_feeds_across_devi",
+      "value": "Local accounts do not sync feeds across devices"
+    },
+    {
+      "name": "local_accounts_do_not_sync_your_feeds_across",
+      "value": "Local accounts do not sync your feeds across devices"
+    },
+    {
+      "name": "local_accounts_do_not_sync_your_feeds_across_2",
+      "value": "Local accounts do not sync your feeds across devices."
+    },
+    {
+      "name": "manually",
+      "value": "Manually"
+    },
+    {
+      "name": "mark_above_as_read",
+      "value": "Mark Above as Read"
+    },
+    {
+      "name": "mark_all_as_read",
+      "value": "Mark All as Read"
+    },
+    {
+      "name": "mark_all_as_read_in",
+      "value": "Mark All as Read in “%s”"
+    },
+    {
+      "name": "mark_article_unread",
+      "value": "Mark Article Unread"
+    },
+    {
+      "name": "mark_as_read",
+      "value": "Mark As Read"
+    },
+    {
+      "name": "mark_below_as_read",
+      "value": "Mark Below as Read"
+    },
+    {
+      "name": "mark_read",
+      "value": "Mark Read"
+    },
+    {
+      "name": "mark_starred",
+      "value": "Mark Starred"
+    },
+    {
+      "name": "mark_unread",
+      "value": "Mark Unread"
+    },
+    {
+      "name": "mark_unstarred",
+      "value": "Mark Unstarred"
+    },
+    {
+      "name": "mark_as_read_2",
+      "value": "Mark as Read"
+    },
+    {
+      "name": "mark_as_starred",
+      "value": "Mark as Starred"
+    },
+    {
+      "name": "mark_as_unread",
+      "value": "Mark as Unread"
+    },
+    {
+      "name": "mark_as_unstarred",
+      "value": "Mark as Unstarred"
+    },
+    {
+      "name": "marked_as_read",
+      "value": "Marked as Read"
+    },
+    {
+      "name": "marked_as_unread",
+      "value": "Marked as Unread"
+    },
+    {
+      "name": "medium",
+      "value": "Medium"
+    },
+    {
+      "name": "menu_go_to_feed_open_home_page_copy_feed_url",
+      "value": "Menu: Go to Feed, Open Home Page, Copy Feed URL"
+    },
+    {
+      "name": "more",
+      "value": "More"
+    },
+    {
+      "name": "multiple",
+      "value": "Multiple"
+    },
+    {
+      "name": "name",
+      "value": "Name"
+    },
+    {
+      "name": "name_2",
+      "value": "Name:"
+    },
+    {
+      "name": "netnewswire_7_is_dedicated_to_everyone_worki",
+      "value": "NetNewsWire 7 is dedicated to everyone working to save democracy in the United States and around the world."
+    },
+    {
+      "name": "netnewswire_news",
+      "value": "NetNewsWire News"
+    },
+    {
+      "name": "netnewswire_will_use_your_icloud_account_to",
+      "value": "NetNewsWire will use your iCloud account to sync your subscriptions across your Mac and iOS devices."
+    },
+    {
+      "name": "network_error_try_again_later",
+      "value": "Network error. Try again later."
+    },
+    {
+      "name": "new_article_notifications",
+      "value": "New Article Notifications"
+    },
+    {
+      "name": "new_feed",
+      "value": "New Feed"
+    },
+    {
+      "name": "new_feed_2",
+      "value": "New Feed…"
+    },
+    {
+      "name": "new_folder",
+      "value": "New Folder"
+    },
+    {
+      "name": "new_folder_2",
+      "value": "New Folder…"
+    },
+    {
+      "name": "next_article",
+      "value": "Next Article"
+    },
+    {
+      "name": "next_unread",
+      "value": "Next Unread"
+    },
+    {
+      "name": "next_unread_article",
+      "value": "Next Unread Article"
+    },
+    {
+      "name": "no_activity_logged",
+      "value": "No Activity Logged"
+    },
+    {
+      "name": "no_errors_logged",
+      "value": "No Errors Logged"
+    },
+    {
+      "name": "no_icon_preview",
+      "value": "No Icon Preview"
+    },
+    {
+      "name": "no_current_activity",
+      "value": "No current activity."
+    },
+    {
+      "name": "no_dinosaurs",
+      "value": "No dinosaurs"
+    },
+    {
+      "name": "no_results",
+      "value": "No results"
+    },
+    {
+      "name": "notifications",
+      "value": "Notifications"
+    },
+    {
+      "name": "notifications_disabled",
+      "value": "Notifications Disabled"
+    },
+    {
+      "name": "notifications_are_not_enabled",
+      "value": "Notifications are not enabled"
+    },
+    {
+      "name": "notifications_need_to_be_enabled_in_the_sett",
+      "value": "Notifications need to be enabled in the Settings app."
+    },
+    {
+      "name": "number_of_lines",
+      "value": "Number of Lines"
+    },
+    {
+      "name": "ok",
+      "value": "OK"
+    },
+    {
+      "name": "open",
+      "value": "Open"
+    },
+    {
+      "name": "open_home_page",
+      "value": "Open Home Page"
+    },
+    {
+      "name": "open_in_browser",
+      "value": "Open In Browser"
+    },
+    {
+      "name": "open_settings",
+      "value": "Open Settings"
+    },
+    {
+      "name": "open_settings_to_configure_icloud_and_enable",
+      "value": "Open Settings to configure iCloud and enable iCloud Drive."
+    },
+    {
+      "name": "open_system_preferences",
+      "value": "Open System Preferences"
+    },
+    {
+      "name": "open_system_settings",
+      "value": "Open System Settings"
+    },
+    {
+      "name": "open_system_settings_to_configure_icloud_and",
+      "value": "Open System Settings to configure iCloud and enable iCloud Drive."
+    },
+    {
+      "name": "open_theme_folder",
+      "value": "Open Theme Folder"
+    },
+    {
+      "name": "open_in_browser_2",
+      "value": "Open in Browser"
+    },
+    {
+      "name": "open_in_browser_in_background",
+      "value": "Open in Browser in Background"
+    },
+    {
+      "name": "open_in_browser_in_foreground",
+      "value": "Open in Browser in Foreground"
+    },
+    {
+      "name": "overwrite",
+      "value": "Overwrite"
+    },
+    {
+      "name": "pending",
+      "value": "Pending"
+    },
+    {
+      "name": "previous_article",
+      "value": "Previous Article"
+    },
+    {
+      "name": "processing_reader_view",
+      "value": "Processing - Reader View"
+    },
+    {
+      "name": "read",
+      "value": "Read"
+    },
+    {
+      "name": "read_articles_filter",
+      "value": "Read Articles Filter"
+    },
+    {
+      "name": "read_content_deleted",
+      "value": "Read Content Deleted"
+    },
+    {
+      "name": "reader_view",
+      "value": "Reader View"
+    },
+    {
+      "name": "refresh",
+      "value": "Refresh"
+    },
+    {
+      "name": "refresh_scan",
+      "value": "Refresh Scan"
+    },
+    {
+      "name": "remove",
+      "value": "Remove"
+    },
+    {
+      "name": "remove_account",
+      "value": "Remove Account"
+    },
+    {
+      "name": "rename",
+      "value": "Rename"
+    },
+    {
+      "name": "rename_to",
+      "value": "Rename %s to:"
+    },
+    {
+      "name": "rename_2",
+      "value": "Rename “%s”"
+    },
+    {
+      "name": "return_to_previous_scan_results",
+      "value": "Return to Previous Scan Results"
+    },
+    {
+      "name": "running",
+      "value": "Running"
+    },
+    {
+      "name": "scan_completed",
+      "value": "Scan completed."
+    },
+    {
+      "name": "scan_failed",
+      "value": "Scan failed."
+    },
+    {
+      "name": "scan_failed_numbers_are_incomplete",
+      "value": "Scan failed. Numbers are incomplete."
+    },
+    {
+      "name": "scanning",
+      "value": "Scanning"
+    },
+    {
+      "name": "scanning_icloud_storage",
+      "value": "Scanning iCloud storage"
+    },
+    {
+      "name": "search",
+      "value": "Search"
+    },
+    {
+      "name": "search_articles",
+      "value": "Search Articles"
+    },
+    {
+      "name": "search_2",
+      "value": "Search: "
+    },
+    {
+      "name": "search_3",
+      "value": "Search: %s"
+    },
+    {
+      "name": "see_articles_in",
+      "value": "See articles in  “%s”"
+    },
+    {
+      "name": "see_first_unread_article",
+      "value": "See first unread article"
+    },
+    {
+      "name": "select_next_down",
+      "value": "Select Next Down"
+    },
+    {
+      "name": "select_next_up",
+      "value": "Select Next Up"
+    },
+    {
+      "name": "select_in_sidebar",
+      "value": "Select “%s” in Sidebar"
+    },
+    {
+      "name": "selected_filter_read_articles",
+      "value": "Selected - Filter Read Articles"
+    },
+    {
+      "name": "selected_filter_read_feeds",
+      "value": "Selected - Filter Read Feeds"
+    },
+    {
+      "name": "selected_mark_article_unread",
+      "value": "Selected - Mark Article Unread"
+    },
+    {
+      "name": "selected_reader_view",
+      "value": "Selected - Reader View"
+    },
+    {
+      "name": "selected_star_article",
+      "value": "Selected - Star Article"
+    },
+    {
+      "name": "self_hosted",
+      "value": "Self-hosted"
+    },
+    {
+      "name": "self_hosted_accounts_sync_your_feeds_across",
+      "value": "Self-hosted accounts sync your feeds across all your devices"
+    },
+    {
+      "name": "share",
+      "value": "Share"
+    },
+    {
+      "name": "share_stats",
+      "value": "Share Stats"
+    },
+    {
+      "name": "share_2",
+      "value": "Share…"
+    },
+    {
+      "name": "show_feed_article",
+      "value": "Show Feed Article"
+    },
+    {
+      "name": "show_read_articles",
+      "value": "Show Read Articles"
+    },
+    {
+      "name": "show_read_feeds",
+      "value": "Show Read Feeds"
+    },
+    {
+      "name": "show_reader_view",
+      "value": "Show Reader View"
+    },
+    {
+      "name": "show_website",
+      "value": "Show Website"
+    },
+    {
+      "name": "show_feeds_that_haven_t_updated_in",
+      "value": "Show feeds that haven’t updated in…"
+    },
+    {
+      "name": "show_notifications_for_new_articles",
+      "value": "Show notifications for new articles"
+    },
+    {
+      "name": "shows_current_activity",
+      "value": "Shows current activity"
+    },
+    {
+      "name": "sign_up_here",
+      "value": "Sign Up Here"
+    },
+    {
+      "name": "sign_in_to_your_bazqux_account_and_sync_your",
+      "value": "Sign in to your BazQux account and sync your feeds across your devices. Your username and password will be encrypted and stored in Keychain.\n\nDon’t have a BazQux account?"
+    },
+    {
+      "name": "sign_in_to_your_bazqux_account",
+      "value": "Sign in to your BazQux account."
+    },
+    {
+      "name": "sign_in_to_your_feedbin_account_and_sync_you",
+      "value": "Sign in to your Feedbin account and sync your feeds across your devices. Your username and password will be encrypted and stored in Keychain.\n\nDon’t have a Feedbin account?"
+    },
+    {
+      "name": "sign_in_to_your_feedbin_account",
+      "value": "Sign in to your Feedbin account."
+    },
+    {
+      "name": "sign_in_to_your_freshrss_account",
+      "value": "Sign in to your FreshRSS account."
+    },
+    {
+      "name": "sign_in_to_your_freshrss_instance_and_sync_y",
+      "value": "Sign in to your FreshRSS instance and sync your feeds across your devices. Your username and password will be encrypted and stored in Keychain.\n\nDon’t have an FreshRSS instance?"
+    },
+    {
+      "name": "sign_in_to_your_inoreader_account_and_sync_y",
+      "value": "Sign in to your Inoreader account and sync your feeds across your devices. Your username and password will be encrypted and stored in Keychain.\n\nDon’t have an Inoreader account?"
+    },
+    {
+      "name": "sign_in_to_your_inoreader_account",
+      "value": "Sign in to your Inoreader account."
+    },
+    {
+      "name": "sign_in_to_your_newsblur_account_and_sync_yo",
+      "value": "Sign in to your NewsBlur account and sync your feeds across your devices. Your username and password will be encrypted and stored in Keychain.\n\nDon’t have a NewsBlur account?"
+    },
+    {
+      "name": "sign_in_to_your_newsblur_account",
+      "value": "Sign in to your NewsBlur account."
+    },
+    {
+      "name": "sign_in_to_your_the_old_reader_account_and_s",
+      "value": "Sign in to your The Old Reader account and sync your feeds across your devices. Your username and password will be encrypted and stored in Keychain.\n\nDon’t have a The Old Reader account?"
+    },
+    {
+      "name": "sign_in_to_your_the_old_reader_account",
+      "value": "Sign in to your The Old Reader account."
+    },
+    {
+      "name": "small",
+      "value": "Small"
+    },
+    {
+      "name": "smart_feed_inspector",
+      "value": "Smart Feed Inspector"
+    },
+    {
+      "name": "smart_feeds",
+      "value": "Smart Feeds"
+    },
+    {
+      "name": "star",
+      "value": "Star"
+    },
+    {
+      "name": "star_article",
+      "value": "Star Article"
+    },
+    {
+      "name": "starred",
+      "value": "Starred"
+    },
+    {
+      "name": "status_records",
+      "value": "Status Records"
+    },
+    {
+      "name": "statuses",
+      "value": "Statuses"
+    },
+    {
+      "name": "swipe_a_feed_to_show_the_action_menu_and_del",
+      "value": "Swipe a feed to show the action menu and delete button."
+    },
+    {
+      "name": "sync_content_of_unread_articles",
+      "value": "Sync content of unread articles"
+    },
+    {
+      "name": "syncing_article_content_increases_icloud_sto",
+      "value": "Syncing article content increases iCloud storage use, sync time, and battery use.\n\nArticle status and the content of starred articles are always synced."
+    },
+    {
+      "name": "system_default",
+      "value": "System Default (%s)"
+    },
+    {
+      "name": "thanks_to_sheila_and_my_family_thanks_to_my",
+      "value": "Thanks to Sheila and my family; thanks to my friends in Seattle and around the globe; thanks to the ever-patient and ever-awesome NetNewsWire beta testers.\n\nThanks to [Gus Mueller](https://shapeof.com/) for [FMDB](https://github.com/ccgus/fmdb) by [Flying Meat Software](http://flyingmeat.com/). Thanks to [GitHub](https://github.com) and [Discourse](https://discourse.com) for making open source collaboration easy and fun. Thanks to [Ben Ubois](https://benubois.com/) at [Feedbin](https://feedbin.com) for all the extra help with syncing and article rendering — and [for hosting the server for the Reader view](https://feedbin.com/blog/2019/03/11/the-future-of-full-content/)."
+    },
+    {
+      "name": "the_name_can_be_anything_you_want_you_can_ev",
+      "value": "The name can be anything you want. You can even use emoji. 🎸"
+    },
+    {
+      "name": "the_theme_already_exists_overwrite_it",
+      "value": "The theme “%s” already exists. Overwrite it?"
+    },
+    {
+      "name": "the_theme_has_been_installed",
+      "value": "The theme “%s” has been installed."
+    },
+    {
+      "name": "theme",
+      "value": "Theme"
+    },
+    {
+      "name": "theme_error",
+      "value": "Theme Error"
+    },
+    {
+      "name": "theme_installed",
+      "value": "Theme installed"
+    },
+    {
+      "name": "there_are_no_accounts_to_add_the_feed_to",
+      "value": "There are no accounts to add the feed to."
+    },
+    {
+      "name": "there_is_already_a_feedbin_account_with_that",
+      "value": "There is already a Feedbin account with that username created."
+    },
+    {
+      "name": "there_is_already_a_newsblur_account_with_tha",
+      "value": "There is already a NewsBlur account with that username created."
+    },
+    {
+      "name": "there_is_already_an_account_of_that_type_wit",
+      "value": "There is already an account of that type with that username created."
+    },
+    {
+      "name": "there_is_already_an_account_of_this_type_wit",
+      "value": "There is already an account of this type with that username created."
+    },
+    {
+      "name": "this_device_cannot_send_emails",
+      "value": "This device cannot send emails."
+    },
+    {
+      "name": "this_may_take_several_minutes",
+      "value": "This may take several minutes."
+    },
+    {
+      "name": "this_theme_cannot_be_used_because_of_data_co",
+      "value": "This theme cannot be used because of data corruption in the Info.plist: %s."
+    },
+    {
+      "name": "this_theme_cannot_be_used_because_the_key_is",
+      "value": "This theme cannot be used because the key “%s” is not found in the Info.plist."
+    },
+    {
+      "name": "this_theme_cannot_be_used_because_the_type_i",
+      "value": "This theme cannot be used because the type “%s” is mismatched in the Info.plist."
+    },
+    {
+      "name": "this_theme_cannot_be_used_because_the_value",
+      "value": "This theme cannot be used because the value “%s” is not found in the Info.plist."
+    },
+    {
+      "name": "this_will_delete_any_not_starred_content_rec",
+      "value": "This will delete any not-starred content records.\n\nThis may take several minutes."
+    },
+    {
+      "name": "this_will_delete_any_read_content_records_th",
+      "value": "This will delete any read content records.\n\nThis may take several minutes."
+    },
+    {
+      "name": "this_will_delete",
+      "value": "This will delete:"
+    },
+    {
+      "name": "timeline",
+      "value": "Timeline"
+    },
+    {
+      "name": "timeline_layout",
+      "value": "Timeline Layout"
+    },
+    {
+      "name": "to_add_an_account_to_netnewswire_click_its_i",
+      "value": "To add an account to NetNewsWire,\nclick its icon above.\n\nOr click the + button in the lower left."
+    },
+    {
+      "name": "to_enable_notifications_open_notifications_i",
+      "value": "To enable notifications, open Notifications in System Preferences, then find NetNewsWire in the list."
+    },
+    {
+      "name": "today",
+      "value": "Today"
+    },
+    {
+      "name": "toggle_read_articles_filter",
+      "value": "Toggle Read Articles Filter"
+    },
+    {
+      "name": "toggle_read_feeds_filter",
+      "value": "Toggle Read Feeds Filter"
+    },
+    {
+      "name": "toggle_read_status",
+      "value": "Toggle Read Status"
+    },
+    {
+      "name": "toggle_reader_view",
+      "value": "Toggle Reader View"
+    },
+    {
+      "name": "toggle_sidebar",
+      "value": "Toggle Sidebar"
+    },
+    {
+      "name": "toggle_starred_status",
+      "value": "Toggle Starred Status"
+    },
+    {
+      "name": "total",
+      "value": "Total"
+    },
+    {
+      "name": "totals",
+      "value": "Totals"
+    },
+    {
+      "name": "type",
+      "value": "Type:"
+    },
+    {
+      "name": "url",
+      "value": "URL"
+    },
+    {
+      "name": "unable_to_add_feed",
+      "value": "Unable to Add Feed"
+    },
+    {
+      "name": "unknown",
+      "value": "Unknown"
+    },
+    {
+      "name": "unread",
+      "value": "Unread"
+    },
+    {
+      "name": "unread_content_deleted",
+      "value": "Unread Content Deleted"
+    },
+    {
+      "name": "unrecognized_account_type",
+      "value": "Unrecognized account type."
+    },
+    {
+      "name": "unstar",
+      "value": "Unstar"
+    },
+    {
+      "name": "unstarred",
+      "value": "Unstarred"
+    },
+    {
+      "name": "untitled",
+      "value": "Untitled"
+    },
+    {
+      "name": "update",
+      "value": "Update"
+    },
+    {
+      "name": "update_credentials",
+      "value": "Update Credentials"
+    },
+    {
+      "name": "update_your_feedbin_account_credentials",
+      "value": "Update your Feedbin account credentials."
+    },
+    {
+      "name": "update_your_newsblur_account_credentials",
+      "value": "Update your NewsBlur account credentials."
+    },
+    {
+      "name": "updated",
+      "value": "Updated %s"
+    },
+    {
+      "name": "updated_just_now",
+      "value": "Updated Just Now"
+    },
+    {
+      "name": "updating",
+      "value": "Updating…"
+    },
+    {
+      "name": "username_password_required",
+      "value": "Username & password required."
+    },
+    {
+      "name": "username_and_password_are_required",
+      "value": "Username and password are required."
+    },
+    {
+      "name": "username_required",
+      "value": "Username required."
+    },
+    {
+      "name": "username_password_api_url_are_required",
+      "value": "Username, password & API URL are required."
+    },
+    {
+      "name": "username_password_and_api_url_are_required",
+      "value": "Username, password, and API URL are required."
+    },
+    {
+      "name": "vacuum_databases",
+      "value": "Vacuum Databases"
+    },
+    {
+      "name": "vacuuming_may_make_databases_faster",
+      "value": "Vacuuming may make databases faster."
+    },
+    {
+      "name": "waiting_for_access_to_feedly",
+      "value": "Waiting for access to Feedly"
+    },
+    {
+      "name": "we_were_unable_to_process_the_selected_file",
+      "value": "We were unable to process the selected file.  Please ensure that it is a properly formatted OPML file."
+    },
+    {
+      "name": "web",
+      "value": "Web"
+    },
+    {
+      "name": "web_accounts_sync_your_feeds_across_all_your",
+      "value": "Web accounts sync your feeds across all your devices"
+    },
+    {
+      "name": "you_can_enable_netnewswire_notifications_in",
+      "value": "You can enable NetNewsWire notifications in System Preferences."
+    },
+    {
+      "name": "you_can_turn_this_confirmation_off_in_settin",
+      "value": "You can turn this confirmation off in Settings."
+    },
+    {
+      "name": "you_must_have_at_least_one_active_account",
+      "value": "You must have at least one active account."
+    },
+    {
+      "name": "your_icloud_account_syncs_your_feeds_across",
+      "value": "Your iCloud account syncs your feeds across your Mac and iOS devices"
+    },
+    {
+      "name": "netnewswire_com_https_netnewswire_com",
+      "value": "[netnewswire.com](https://netnewswire.com/)"
+    },
+    {
+      "name": "from_cache",
+      "value": "from cache"
+    },
+    {
+      "name": "https_fresh_rss_net_api_greader_php",
+      "value": "https://fresh.rss.net/api/greader.php"
+    },
+    {
+      "name": "icloud",
+      "value": "iCloud"
+    },
+    {
+      "name": "icloud_storage_stats",
+      "value": "iCloud Storage Stats"
+    },
+    {
+      "name": "icloud_storage_cleanup_completed",
+      "value": "iCloud storage cleanup completed."
+    },
+    {
+      "name": "read_content_record",
+      "value": "read content record"
+    },
+    {
+      "name": "read_content_records",
+      "value": "read content records"
+    },
+    {
+      "name": "unread_2",
+      "value": "unread"
+    },
+    {
+      "name": "unread_content_record",
+      "value": "unread content record"
+    },
+    {
+      "name": "unread_content_records",
+      "value": "unread content records"
+    },
+    {
+      "name": "dinosaurs",
+      "value": "🦖 Dinosaurs"
+    },
+    {
+      "name": "account_name_on_my_device",
+      "value": "On My Device"
+    },
+    {
+      "name": "activity_adding_feed",
+      "value": "Adding feed"
+    },
+    {
+      "name": "activity_avatars",
+      "value": "Avatars"
+    },
+    {
+      "name": "activity_cleaning_up_icloud_records",
+      "value": "Cleaning up iCloud records"
+    },
+    {
+      "name": "activity_creating_folder",
+      "value": "Creating folder"
+    },
+    {
+      "name": "activity_downloading_avatar",
+      "value": "Downloading avatar %s"
+    },
+    {
+      "name": "activity_downloading_favicon",
+      "value": "Downloading favicon %s"
+    },
+    {
+      "name": "activity_downloading_image",
+      "value": "Downloading image %s"
+    },
+    {
+      "name": "activity_downloading_metadata",
+      "value": "Downloading metadata %s"
+    },
+    {
+      "name": "activity_exporting_opml",
+      "value": "Exporting OPML"
+    },
+    {
+      "name": "activity_favicons",
+      "value": "Favicons"
+    },
+    {
+      "name": "activity_feed_finder",
+      "value": "Feed Finder"
+    },
+    {
+      "name": "activity_feed_images",
+      "value": "Feed Images"
+    },
+    {
+      "name": "activity_feed_redirect",
+      "value": "Feed redirect"
+    },
+    {
+      "name": "activity_fetching",
+      "value": "Fetching %s"
+    },
+    {
+      "name": "activity_fetching_article_ids",
+      "value": "Fetching article IDs"
+    },
+    {
+      "name": "activity_fetching_icloud_stats",
+      "value": "Fetching iCloud stats"
+    },
+    {
+      "name": "activity_finding_feed",
+      "value": "Finding feed %s"
+    },
+    {
+      "name": "activity_html_metadata",
+      "value": "HTML Metadata"
+    },
+    {
+      "name": "activity_importing_opml",
+      "value": "Importing OPML"
+    },
+    {
+      "name": "activity_moving_feed",
+      "value": "Moving feed"
+    },
+    {
+      "name": "activity_receiving_sync_notification",
+      "value": "Receiving sync notification"
+    },
+    {
+      "name": "activity_refresh_all",
+      "value": "Refresh all"
+    },
+    {
+      "name": "activity_refreshing_articles",
+      "value": "Refreshing articles"
+    },
+    {
+      "name": "activity_refreshing_feed_list",
+      "value": "Refreshing feed list"
+    },
+    {
+      "name": "activity_refreshing_feed",
+      "value": "Refreshing feed: %s"
+    },
+    {
+      "name": "activity_refreshing_missing_articles",
+      "value": "Refreshing missing articles"
+    },
+    {
+      "name": "activity_refreshing_statuses",
+      "value": "Refreshing statuses"
+    },
+    {
+      "name": "activity_removing_feed",
+      "value": "Removing feed"
+    },
+    {
+      "name": "activity_removing_folder",
+      "value": "Removing folder"
+    },
+    {
+      "name": "activity_renaming_feed",
+      "value": "Renaming feed"
+    },
+    {
+      "name": "activity_renaming_folder",
+      "value": "Renaming folder"
+    },
+    {
+      "name": "activity_restoring_feed",
+      "value": "Restoring feed"
+    },
+    {
+      "name": "activity_restoring_folder",
+      "value": "Restoring folder"
+    },
+    {
+      "name": "activity_scanning_icloud_article_records",
+      "value": "Scanning iCloud article records"
+    },
+    {
+      "name": "activity_scanning_icloud_status_records",
+      "value": "Scanning iCloud status records"
+    },
+    {
+      "name": "activity_sending_statuses",
+      "value": "Sending statuses"
+    },
+    {
+      "name": "activity_subscribing_to_feed",
+      "value": "Subscribing to feed"
+    },
+    {
+      "name": "activity_subscribing_to_zone_changes",
+      "value": "Subscribing to zone changes"
+    },
+    {
+      "name": "activity_vacuuming_database",
+      "value": "Vacuuming database"
+    },
+    {
+      "name": "activity_validating_credentials",
+      "value": "Validating credentials"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "src": [
+    "pages/MainFeedCollectionViewControllerPage",
+    "pages/AccountInspectorViewControllerPage",
+    "pages/AccountNotificationInspectorViewPage",
+    "pages/AddFeedViewControllerPage",
+    "pages/AddFolderViewControllerPage",
+    "pages/CurrentActivityViewPage",
+    "pages/FeedInspectorViewControllerPage",
+    "pages/MainTimelineModernViewControllerPage",
+    "pages/SettingsViewControllerPage",
+    "pages/AddAccountViewControllerPage",
+    "pages/FeedbinAccountViewControllerPage",
+    "pages/NewsBlurAccountViewControllerPage",
+    "pages/ReaderAPIAccountViewControllerPage",
+    "pages/AddFeedFolderViewControllerPage",
+    "pages/ArticleViewControllerPage",
+    "pages/AboutViewPage",
+    "pages/AccountStatsViewPage",
+    "pages/ActivityLogViewPage",
+    "pages/ArticleThemesTableViewControllerPage",
+    "pages/CloudKitStatsViewPage",
+    "pages/ColorPaletteTableViewControllerPage",
+    "pages/DinosaursViewPage",
+    "pages/ErrorLogViewPage",
+    "pages/TimelineCustomizerCollectionViewControllerPage",
+    "pages/ImageViewControllerPage",
+    "pages/CloudKitAccountViewControllerPage",
+    "pages/LocalAccountViewControllerPage",
+    "pages/InAppBrowserPage"
+  ]
+}

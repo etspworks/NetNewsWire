@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" width="1200" height="600" role="img" aria-label="Layer-by-layer map from the Swift source to the ArkTS port">
+  <style>
+    .f{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+    .h{font-size:15px;font-weight:700;letter-spacing:2.2px;fill:#8b98a8}
+    .t{font-size:19px;font-weight:600;fill:#e6edf5}
+    .s{font-size:13.5px;fill:#8b98a8}
+    .cap{font-size:13px;fill:#6f7d8e;letter-spacing:.4px}
+  </style>
+  <rect width="1200" height="600" rx="18" fill="#0f1620"/>
+  <rect x="1" y="1" width="1198" height="598" rx="18" fill="none" stroke="#1f2a3a" stroke-width="2"/>
+
+  <text class="f h" x="64" y="60">SOURCE &#183; SWIFT / UIKIT</text>
+  <text class="f h" x="700" y="60" fill="#5E9EF4">PORT &#183; ARKTS / ARKUI</text>
+  <line x1="64" y1="76" x2="500" y2="76" stroke="#1f2a3a" stroke-width="2"/>
+  <line x1="700" y1="76" x2="1136" y2="76" stroke="#2D80F1" stroke-width="2" opacity=".55"/>
+
+  <g>
+    <rect x="64" y="106" width="436" height="72" rx="12" fill="#161e2b"/>
+    <rect x="64" y="106" width="4" height="72" rx="2" fill="#5E9EF4"/>
+    <text class="f t" x="90" y="140">Storyboards &#183; UIKit views</text>
+    <text class="f s" x="90" y="162">28 view controllers</text>
+    <path d="M530 142h140" stroke="#2D80F1" stroke-width="2.5" marker-end="url(#a)"/>
+    <rect x="700" y="106" width="436" height="72" rx="12" fill="#132033" stroke="#24405f"/>
+    <rect x="700" y="106" width="4" height="72" rx="2" fill="#2D80F1"/>
+    <text class="f t" x="726" y="140">ArkUI declarative pages</text>
+    <text class="f s" x="726" y="162">28 <tspan fill="#5E9EF4">*Page.ets</tspan> screens</text>
+  </g>
+
+  <g>
+    <rect x="64" y="196" width="436" height="72" rx="12" fill="#161e2b"/>
+    <rect x="64" y="196" width="4" height="72" rx="2" fill="#a371f7"/>
+    <text class="f t" x="90" y="230">SceneCoordinator</text>
+    <text class="f s" x="90" y="252">Navigation &#183; selection &#183; state</text>
+    <path d="M530 232h140" stroke="#2D80F1" stroke-width="2.5" marker-end="url(#a)"/>
+    <rect x="700" y="196" width="436" height="72" rx="12" fill="#132033" stroke="#24405f"/>
+    <rect x="700" y="196" width="4" height="72" rx="2" fill="#a371f7"/>
+    <text class="f t" x="726" y="230">SceneCoordinator.ts</text>
+    <text class="f s" x="726" y="252">AppStorage &#183; CoalescingQueue</text>
+  </g>
+
+  <g>
+    <rect x="64" y="286" width="436" height="72" rx="12" fill="#161e2b"/>
+    <rect x="64" y="286" width="4" height="72" rx="2" fill="#3fb950"/>
+    <text class="f t" x="90" y="320">Account &#183; AccountDelegate</text>
+    <text class="f s" x="90" y="342">Local &#183; Feedbin &#183; NewsBlur &#183; Reader API</text>
+    <path d="M530 322h140" stroke="#2D80F1" stroke-width="2.5" marker-end="url(#a)"/>
+    <rect x="700" y="286" width="436" height="72" rx="12" fill="#132033" stroke="#24405f"/>
+    <rect x="700" y="286" width="4" height="72" rx="2" fill="#3fb950"/>
+    <text class="f t" x="726" y="320">Account.ts &#183; *AccountDelegate.ts</text>
+    <text class="f s" x="726" y="342">Same delegates, same refresh policy</text>
+  </g>
+
+  <g>
+    <rect x="64" y="376" width="436" height="72" rx="12" fill="#161e2b"/>
+    <rect x="64" y="376" width="4" height="72" rx="2" fill="#d29922"/>
+    <text class="f t" x="90" y="410">RSParser &#183; RSWeb &#183; RSCore</text>
+    <text class="f s" x="90" y="432">RSS &#183; Atom &#183; JSON Feed &#183; OPML</text>
+    <path d="M530 412h140" stroke="#2D80F1" stroke-width="2.5" marker-end="url(#a)"/>
+    <rect x="700" y="376" width="436" height="72" rx="12" fill="#132033" stroke="#24405f"/>
+    <rect x="700" y="376" width="4" height="72" rx="2" fill="#d29922"/>
+    <text class="f t" x="726" y="410">FeedParser &#183; OPML &#183; DownloadSession</text>
+    <text class="f s" x="726" y="432">Hand-written, no third-party runtime</text>
+  </g>
+
+  <g>
+    <rect x="64" y="466" width="436" height="72" rx="12" fill="#161e2b"/>
+    <rect x="64" y="466" width="4" height="72" rx="2" fill="#f778ba"/>
+    <text class="f t" x="90" y="500">RSDatabase &#8594; SQLite</text>
+    <text class="f s" x="90" y="522">Articles &#183; statuses &#183; full-text search</text>
+    <path d="M530 502h140" stroke="#2D80F1" stroke-width="2.5" marker-end="url(#a)"/>
+    <rect x="700" y="466" width="436" height="72" rx="12" fill="#132033" stroke="#24405f"/>
+    <rect x="700" y="466" width="4" height="72" rx="2" fill="#f778ba"/>
+    <text class="f t" x="726" y="500">relationalStore &#8594; SQLite</text>
+    <text class="f s" x="726" y="522">Same schema, same queries</text>
+  </g>
+
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#2D80F1"/>
+    </marker>
+  </defs>
+  <text class="f cap" x="64" y="576">154 ArkTS/TypeScript source files &#183; zero runtime dependencies &#183; HarmonyOS SDK, API 24</text>
+</svg>
